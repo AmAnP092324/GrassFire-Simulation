@@ -11,8 +11,6 @@ This project provides a visualization of the Grassfire algorithm, a pathfinding 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -36,7 +34,7 @@ This project aims to provide a visual representation of how the Grassfire algori
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/grassfire-sfml.git
+git clone https://github.com/AmAnP092324/GrassFire-Simulation.git
 ```
 
 2. Build the project using CMake:
